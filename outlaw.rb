@@ -3,7 +3,7 @@ OUTLAW_DIGEST = ''
 
 class Outlaw < Formula
   homepage ""
-  url "https://github.com/hooroo/outlaw/releases/download/#{OUTLAW_VERSION}/outlaw.tar.gz"
+  url "https://github.com/outlaw/outlaw/releases/download/#{OUTLAW_VERSION}/outlaw.tar.gz"
 
   version OUTLAW_VERSION
   sha256  OUTLAW_DIGEST
